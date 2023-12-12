@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "385933030382",
+    "project_id": "asset-design-dev",
+    "storage_bucket": "asset-design-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385933030382:android:515a08b7680f54c56094ff",
+        "android_client_info": {
+          "package_name": "com.asset_design.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385933030382-6urf8dcrhcvsj3kc8ne9a4uu7uqfqlsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCTX1PnzGnqIbZRXVZez9xDoJE9AI-Et8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385933030382-6urf8dcrhcvsj3kc8ne9a4uu7uqfqlsa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385933030382-57738c5evg543aqdtl7lit0l3ejdjfdc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asset-design.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
